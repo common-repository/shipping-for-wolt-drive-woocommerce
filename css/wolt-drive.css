@@ -1,0 +1,18 @@
+.woocommerce-checkout .wolt-drive-notice {
+    display: flex;
+    padding: 1.5em;
+    background: #ebe9eb;
+    border-radius: 5px;
+    margin-top: -14px;
+    margin-bottom: 24px;
+}
+
+.woocommerce-checkout .wolt-drive-notice img {
+    width: 15%;
+    margin-right: 2em;
+}
+
+.woocommerce-checkout .wolt-drive-notice .date {
+    font-size: 1.05em;
+    font-weight: bold;
+}

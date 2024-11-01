@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wolt drive for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-27 13:51+0000\n"
+"PO-Revision-Date: 2023-06-23 07:21+0000\n"
+"Last-Translator: \n"
+"Language-Team: Dansk\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: shipping-for-wolt-drive-woocommerce"
+
+#: library/wcws_output_functions.php:23
+msgid " min."
+msgstr " min."
+
+#: library/class.wolt_shippping_method.php:139
+msgid "+45"
+msgstr "+45"
+
+#: library/class.wolt_shippping_method.php:219
+msgid "9:00;16:00;30"
+msgstr "9:00;16:00;30"
+
+#: library/class.wolt_shippping_method.php:164
+msgid "[opening];[closing];[minimum preparation]"
+msgstr "[åbning];[lukning];[minimum forberedelse]"
+
+#: library/class.wolt_shippping_method.php:123
+msgid "A Email customers can contact in case of problem with there deliveries."
+msgstr ""
+"En e-mail kunder kan kontakte i tilfælde af problemer med deres leveringer."
+
+#: library/class.wolt_shippping_method.php:115
+msgid ""
+"A number customers can contact in case of problem with there deliveries."
+msgstr ""
+"En række kunder kan kontakte i tilfælde af problemer med deres leverancer."
+
+#: library/class.wolt_shippping_method.php:138
+msgid "Area code of deliver, eks. +45"
+msgstr "Områdenummer for levering, f.eks. +45"
+
+#. Author of the plugin
+msgid "Atenzo Digital A/S"
+msgstr "Atenzo Digital A/S"
+
+#: library/class.wolt_shippping_method.php:155
+msgid "Content to be sent as sms when order is picked up."
+msgstr "Indhold sendes som sms ved afhentning af ordre."
+
+#: library/class.wolt_shippping_method.php:146
+msgid "Content to be sent as sms when order is received.."
+msgstr "Indhold sendes som sms når ordre modtages.."
+
+#: library/wcws_promises_functions.php:51
+#: library/wcws_promises_functions.php:103
+msgid "Dammit something went wrong, try again or contact us."
+msgstr "Øv!, noget gik galt, prøv igen eller kontakt os."
+
+#: library/class.wolt_shippping_method.php:83
+msgid "Enable method"
+msgstr "Aktiver metode"
+
+#: library/class.wolt_shippping_method.php:258
+msgid "Enable test mode."
+msgstr "Aktiver testtilstand."
+
+#: library/class.wolt_shippping_method.php:85
+msgid "Enable this shipping method."
+msgstr "Aktiver denne forsendelsesmetode."
+
+#: library/class.wolt_shippping_method.php:98
+msgid "Fee"
+msgstr "Gebyr"
+
+#: library/class.wolt_shippping_method.php:101
+msgid "Fees to be added on top of the ones recived from wolt"
+msgstr "Gebyrer lægges oven i dem modtaget fra wolt"
+
+#: library/class.wolt_shippping_method.php:195
+msgid "Friday"
+msgstr "Fredag"
+
+#: library/class.wolt_shippping_method.php:156
+msgid ""
+"Hello CUSTOMER_NAME! Your order from Amazing Store has been picked up and "
+"will be delivered soon. You can follow it here: TRACKING_LINK"
+msgstr ""
+"Hej CUSTOMER_NAME! Din ordre fra Amazing Store er blevet afhentet og vil "
+"snart blive leveret. Du kan følge den her: TRACKING_LINK"
+
+#: library/class.wolt_shippping_method.php:147
+msgid ""
+"Hello CUSTOMER_NAME! Your order from Amazing Store will be delivered soon. "
+"You can follow it here: TRACKING_LINK"
+msgstr ""
+"Hej CUSTOMER_NAME! Din ordre fra Amazing Store vil snart blive leveret. Du "
+"kan følge den her: TRACKING_LINK"
+
+#. Author URI of the plugin
+msgid "https://atenzo.dk"
+msgstr "https://atenzo.dk"
+
+#: library/class.wolt_shippping_method.php:231
+#: library/class.wolt_shippping_method.php:263
+msgid "Merchant ID"
+msgstr "Merchant ID"
+
+#: library/class.wolt_shippping_method.php:169
+msgid "Monday"
+msgstr "Mandag"
+
+#: library/class.wolt_shippping_method.php:162
+msgid "Opening hours settings"
+msgstr "Indstillinger af åbningstider"
+
+#: library/class.wolt_shippping_method.php:106
+msgid "Override price"
+msgstr "Overskriv pris"
+
+#: library/class.wolt_shippping_method.php:108
+msgid "Override the price for shipping"
+msgstr "Overskriv prisen for forsendelse"
+
+#: library/class.wolt_shippping_method.php:136
+msgid "Phone area code"
+msgstr "Telefonens områdenummer"
+
+#: library/class.wolt_shippping_method.php:224
+msgid "Production settings"
+msgstr "Produktionsindstillinger"
+
+#: library/class.wolt_shippping_method.php:202
+msgid "Saturday"
+msgstr "Lørdag"
+
+#: library/class.wolt_shippping_method.php:164
+msgid ""
+"Set normal weekly opening hours through the fields, leave blank if closed."
+"<br/>Separate the time with \";\" - last option is minium preparation time "
+"in minutes which is optional, default is 30 min "
+msgstr ""
+"Indstil normale ugentlige åbningstider gennem felterne, lad feltet stå tomt, "
+"hvis det er lukket.<br/>Adskil tiden med \";\" - sidste mulighed er minimum "
+"forberedelsestid i minutter, hvilket er valgfrit, standard er 30 min"
+
+#: library/wcws_promises_functions.php:56
+#: library/wcws_promises_functions.php:108
+msgid "Shippping was not approved, try again or contact us."
+msgstr "Forsendelsen blev ikke godkendt, prøv igen eller kontakt os."
+
+#: library/class.wolt_shippping_method.php:129
+msgid "SMS Notifications"
+msgstr "SMS-beskeder"
+
+#: library/class.wolt_shippping_method.php:153
+msgid "SMS pickup"
+msgstr "SMS afhentning"
+
+#: library/class.wolt_shippping_method.php:144
+msgid "SMS received"
+msgstr "SMS modtaget"
+
+#: library/wcws_output_functions.php:51
+msgid ""
+"Sorry but our Wolt delivery service are closed for today. We will be open "
+"again: <br />"
+msgstr ""
+"Beklager, men vores Wolt leveringsservice er lukket i dag. Vi holder åbent "
+"igen: <br />"
+
+#: library/wcws_promises_functions.php:146
+#: library/wcws_promises_functions.php:153
+msgid "Sorry something went wrong please contact us"
+msgstr "Beklager noget gik galt, kontakt os venligst"
+
+#: library/class.wolt_shippping_method.php:216
+msgid "Special opening hours"
+msgstr "Særlige åbningstider"
+
+#: library/class.wolt_shippping_method.php:218
+msgid ""
+"Special opening hours one date per line, leave only date if closed.<br />Use "
+"\";\" to separate opening and closing, and last can be minium delivery "
+"preparation time e.g.:<br /><i>[date MM/DD/YYYY];[opening];[closing];"
+"[preparation time]</i>"
+msgstr ""
+"Særlige åbningstider én dato pr. linje, lad kun dato hvis lukket.<br />Brug "
+"\";\" for at adskille åbning og lukning, og sidst kan være minimum "
+"leveringstid forberedelse, f.eks.:<br /><i>[dato MM/DD/ÅÅÅÅ];[åbning];"
+"[lukning];[forberedelsestid]</i>"
+
+#: library/class.wolt_shippping_method.php:209
+msgid "Sunday"
+msgstr "Søndag"
+
+#: library/class.wolt_shippping_method.php:121
+msgid "Support Email"
+msgstr "Support e-mail"
+
+#: library/class.wolt_shippping_method.php:113
+msgid "Support Phone"
+msgstr "Support telefon"
+
+#: library/class.wolt_shippping_method.php:256
+msgid "Test mode"
+msgstr "Test mode"
+
+#: library/class.wolt_shippping_method.php:249
+msgid "Test settings"
+msgstr "Testindstillinger"
+
+#: library/class.wolt_shippping_method.php:131
+msgid ""
+"Text for the SMS notifications that customers gets when wolt receives the "
+"order, and have picked up the package.<br />Use CUSTOMER_NAME to input "
+"customer name, and use TRACKING_LINK to get the tracking link.<br />Leave "
+"blank for no SMS notifications."
+msgstr ""
+"Sms til de SMS-beskeder, som kunderne får, når wolt modtager ordren og har "
+"afhentet pakken.<br />Brug CUSTOMER_NAME til at indtaste kundenavn, og brug "
+"TRACKING_LINK for at få sporingslinket.<br />Lad det være tomt for ingen SMS "
+"meddelelser."
+
+#: library/wcws_output_functions.php:86
+#, php-format
+msgid "The delivery will be here in %s mins"
+msgstr "Leveringen vil være her om %s min"
+
+#: library/wcws_promises_functions.php:63
+#: library/wcws_promises_functions.php:115
+#: library/wcws_promises_functions.php:161
+msgid "The wolt shiping api seems to be missing"
+msgstr "Wolt shiping API ser ud til at mangle"
+
+#: library/class.wolt_shippping_method.php:188
+msgid "Thursday"
+msgstr "Torsdag"
+
+#: library/class.wolt_shippping_method.php:92
+msgid "Title to be displayed on site"
+msgstr "Titel skal vises på stedet"
+
+#: library/class.wolt_shippping_method.php:243
+#: library/class.wolt_shippping_method.php:275
+msgid "Token"
+msgstr "Token"
+
+#: library/wcws_output_functions.php:95
+msgid "Track your delivery here"
+msgstr "Følg din levering her"
+
+#: library/class.wolt_shippping_method.php:176
+msgid "Tuesday"
+msgstr "Tirsdag"
+
+#: library/wcws_output_functions.php:107
+msgid ""
+"Ups, something went really wrong, please contact us to get your delivery"
+msgstr ""
+"Ups, noget gik virkelig galt, kontakt os venligst for at få din levering"
+
+#: library/class.wolt_shippping_method.php:237
+#: library/class.wolt_shippping_method.php:269
+msgid "Venue ID"
+msgstr "Venue ID"
+
+#: library/wcws_output_functions.php:23
+msgid "We can be there in"
+msgstr "Vi kan være der inde"
+
+#: library/class.wolt_shippping_method.php:182
+msgid "Wednesday"
+msgstr "Onsdag"
+
+#: library/wcws_promises_functions.php:46
+msgid "Wolt didn't accept the shipment, try again or contact us"
+msgstr "Wolt accepterede ikke forsendelsen, prøv igen eller kontakt os"
+
+#: library/class.wolt_shippping_method.php:22
+msgid "Wolt Drive"
+msgstr "Wolt Drive"
+
+#. Name of the plugin
+msgid "Wolt drive for WooCommerce"
+msgstr "Wolt drive til WooCommerce"
+
+#: library/class.wolt_shippping_method.php:28
+msgid "Wolt Drive shipping"
+msgstr "Wolt drive forsendelse"
+
+#: library/class.wolt_shippping_method.php:93
+msgid "Wolt drive shipping"
+msgstr "Wolt drive forsendelse"
+
+#: library/class.wolt_shippping_method.php:23
+msgid "Wolt Drive shipping method"
+msgstr "Wolt Drive forsendelsesmetode"
+
+#. Description of the plugin
+msgid "Wolt drive shipping method for woocommerce"
+msgstr "Wolt drive forsendelsesmetode til woocommerce"
+
+#: library/wcws_output_functions.php:84
+msgid "You're delivery is coming with wolt"
+msgstr "Din levering kommer med wolt"
+
+#: library/class.wolt_shippping_method.php:233
+msgid "Your production merchant id"
+msgstr "Dit produktionsforhandler-id"
+
+#: library/class.wolt_shippping_method.php:245
+msgid "Your production token"
+msgstr "Dit produktionstoken"
+
+#: library/class.wolt_shippping_method.php:239
+msgid "Your production venue id"
+msgstr "Dit produktionssteds-id"
+
+#: library/class.wolt_shippping_method.php:265
+msgid "Your test merchant id"
+msgstr "Dit testsælger-id"
+
+#: library/class.wolt_shippping_method.php:277
+msgid "Your test token"
+msgstr "Dit testtoken"
+
+#: library/class.wolt_shippping_method.php:271
+msgid "Your test venue id"
+msgstr "Dit teststeds-id"
